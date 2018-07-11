@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\dns\desktop\пняву\проекты\практика\lab5\lab5\source.cpp(12): warning C4244: инициализация: преобразование "std::streamoff" в "long", возможна потеря данных
+  lab5.vcxproj -> C:\Users\DNS\Desktop\ПнЯВУ\проекты\практика\lab5\Debug\lab5.exe
